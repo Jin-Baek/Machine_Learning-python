@@ -14,6 +14,6 @@
 * Total 123 lessons<br>
 * The content for each lesson can be checked through the link above.
 
-__2021.01.14__ : 강좌 소개 ( 1 lessons ) ~ 파이썬 기반의 머신러닝과 생태계 이해 ( 4 lessons ) <br>
+__2021.01.14__ : 강좌 소개 ( 1 lessons ) ~ 파이썬 기반의 머신러닝과 생태계 이해 ( 5 lessons ) <br>
 __2021.01.15__ : 파이썬 기반의 머신러닝과 생태계 이해 ( 7 lessons )<br>
-__2021.01.16__ : 파이썬 기반의 머신러닝과 생태계 이해 ( 8 lessons )<br>
+__2021.01.16__ : 파이썬 기반의 머신러닝과 생태계 이해 ( 7 lessons )<br>
