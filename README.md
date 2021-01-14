@@ -14,4 +14,4 @@
 * No attachments for simple concept learning | Available attachments for code practice learning<br>
 * The content for each lesson can be checked through the link above.
 
-__2021.01.14__ : 1 ~ 5 lessons
+__2021.01.14__ : 강좌 소개 ( 1 lessons ) ~ 파이썬 기반의 머신러닝과 생태계 이해 ( 4 lessons )
