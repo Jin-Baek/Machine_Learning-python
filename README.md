@@ -9,7 +9,7 @@
 * Using *book* for __conceptual study__ : [파이썬 머신러닝 완벽 가이드]<br><br>
 * Access the *Reference*, if you want to study the __code__ for this course ( Code provided by the book author )<br><br>
 * Using *lectures* to __review__ whole content<br><br>
-* Upload personal __toy project or organization code__ based on book<br>
+* Upload personal __toy project or customized code__ based on book<br>
 
 ## Reference
 
@@ -18,6 +18,8 @@
 ## Learning content
 
 ### Machine learning starts with scikit-learn
+
+[Customized code](https://github.com/Jin-Baek/Machine_Learning-python/blob/main/sklearn_basic.ipynb)
 
 ### Evaluation
 
