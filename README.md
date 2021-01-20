@@ -1,9 +1,15 @@
 # Python-based machine learning
 
 ## Introduction
-* This repository is based on Book & Lecture [" 파이썬 머신러닝 완벽 가이드 "](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C) <br>
-* For the overall __organized learning content and code__ use the reference<br> For __detailed explanation and understanding__ use book & lecture<br>
-* A training or toy project based on the above two will be uploaded. ( Unlike the lecture, I use plotly for visualization. )
+* This repository is based on [" 파이썬 머신러닝 완벽 가이드 "](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C) <br>
+* The content for each lesson can be checked through the link above.
+
+## Learning medium
+
+* Using *book* for __conceptual study__ : [파이썬 머신러닝 완벽 가이드]<br><br>
+* Access the *Reference*, if you want to study the __code__ for this course ( Code provided by the book author )<br><br>
+* Using *lectures* to __review__ whole content<br><br>
+* Upload personal __toy project or organization code__ based on book<br>
 
 ## Reference
 
@@ -11,12 +17,18 @@
 
 ## Learning content
 
-* Total 123 lessons<br>
-* The content for each lesson can be checked through the link above.
+### Machine learning starts with scikit-learn
 
-__2021.01.14__ : 강좌 소개 ( 1 lessons ) ~ 파이썬 기반의 머신러닝과 생태계 이해 ( 5 lessons ) <br>
-__2021.01.15__ : 파이썬 기반의 머신러닝과 생태계 이해 ( 7 lessons )<br>
-__2021.01.16__ : 파이썬 기반의 머신러닝과 생태계 이해 ( 7 lessons ) ~ 사이킷런으로 시작하는 머신러닝 ( 1 lessons ) <br>
-__2021.01.17__ : 사이킷런으로 시작하는 머신러닝 ( 4 lessons ) <br>
-__2021.01.18__ : 지금까지 배운 내용 복습  <br>
-__2021.01.19__ : 사이킷런으로 시작하는 머신러닝 ( 3 lessons ) ~ 평가 Evaluation ( 2 lessons ) <br>
+### Evaluation
+
+### Classification
+
+### Regression
+
+### Dimension Reduction
+
+### Clustering
+
+### Text analysis
+
+### Recommendation
