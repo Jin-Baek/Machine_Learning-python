@@ -15,22 +15,23 @@
 
 [Source code used in the lecture](https://github.com/chulminkw/PerfectGuide)
 
-## Learning content
+## Topic
 
-### Machine learning starts with scikit-learn
+* ### Machine learning starts with scikit-learn
+  * [Customized content and code 바로가기](https://github.com/Jin-Baek/Machine_Learning-python/blob/main/sklearn_basic.ipynb)
 
-[Customized code](https://github.com/Jin-Baek/Machine_Learning-python/blob/main/sklearn_basic.ipynb)
+* ### Evaluation 
+  * [Customized content and code 바로가기]()
+  * small project : 피마 인디언 당뇨병 예측 
 
-### Evaluation
+* ### Classification  
 
-### Classification
+* ### Regression 
 
-### Regression
+* ### Dimension Reduction 
 
-### Dimension Reduction
+* ### Clustering  
 
-### Clustering
+* ### Text analysis 
 
-### Text analysis
-
-### Recommendation
+* ### Recommendation 
