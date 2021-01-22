@@ -17,6 +17,8 @@
 
 ## Topic
 
+[ 빠른 주피터 노트북 보기 ] links may differ slightly from actual file content 
+
 * ### Machine learning starts with scikit-learn
   * Keyword : &#160;#내장 dataset&#160;&#160; #estimator&#160;&#160; #train_test_split()&#160;&#160; #교차 검증&#160;&#160; #GridSearchCV&#160;&#160; #데이터 인코딩&#160;&#160; #feature scaling&#160;&#160; 
   
@@ -25,7 +27,7 @@
 * ### Evaluation
   * Keyword : &#160;#정확도&#160;&#160; #오차 행렬&#160;&#160; #정밀도와 재현율&#160;&#160; #F1 스코어&#160;&#160; #ROC 곡선과 AUC
 
-  [빠른 주피터 노트북 보기]()  
+  [빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Evaluation.ipynb)  
   [실습 - 피마 인디언 당뇨병 예측]() 
 
 * ### Classification  
