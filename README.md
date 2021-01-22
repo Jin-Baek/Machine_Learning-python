@@ -20,7 +20,7 @@
 * ### Machine learning starts with scikit-learn
   * Keyword : &#160;#내장 dataset&#160;&#160; #estimator&#160;&#160; #train_test_split()&#160;&#160; #교차 검증&#160;&#160; #GridSearchCV&#160;&#160; #데이터 인코딩&#160;&#160; #feature scaling&#160;&#160; 
   
-  [빠른 주피터 노트북 보기](https://github.com/Jin-Baek/Machine_Learning-python/blob/main/sklearn_basic.ipynb)
+  [빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/sklearn_basic.ipynb)
 
 * ### Evaluation
   * Keyword : &#160;#정확도&#160;&#160; #오차 행렬&#160;&#160; #정밀도와 재현율&#160;&#160; #F1 스코어&#160;&#160; #ROC 곡선과 AUC
