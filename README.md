@@ -33,7 +33,9 @@
 * ### Classification  
   * Keyword : &#160;#결정 트리&#160;&#160; #앙상블 학습&#160;&#160; #랜덤 포레스트&#160;&#160; #GBM&#160;&#160; #XGBoost&#160;&#160; #LightGBM&#160;&#160; #스태킹 앙상블&#160;&#160;
 
-  [빠른 주피터 노트북 보기 1 - 결정 트리](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification1.ipynb)  
+  [빠른 주피터 노트북 보기 - 결정 트리]()  
+  [빠른 주피처 노트북 보기 - 앙상블 학습]()
+  [실습 - 사용자 행동 인식 예측 ]()
 
 * ### Regression 
 
