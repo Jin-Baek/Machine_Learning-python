@@ -36,6 +36,7 @@
   [빠른 주피터 노트북 보기 - Classification_DecisionTree](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_DecisionTree.ipynb)  
   [빠른 주피처 노트북 보기 - Classification_Ensemble_Voting_RandomForest](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_Voting_RandomForest.ipynb)<br>
   [빠른 주피처 노트북 보기 - Classification_Ensemble_GBM_XGBoost](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_GBM_XGBoost.ipynb)<br>
+   [빠른 주피처 노트북 보기 - Classification_Ensemble_LightGBM](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_LightGBM.ipynb)
   [[실습] 사용자 행동 인식 예측 - human_activity_recognition](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/human_activity_recognition.ipynb)
 
 * ### Regression 
