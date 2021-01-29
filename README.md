@@ -37,7 +37,7 @@
   [빠른 주피처 노트북 보기 - Classification_Ensemble_Voting_RandomForest](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_Voting_RandomForest.ipynb)<br>
   [빠른 주피처 노트북 보기 - Classification_Ensemble_GBM_XGBoost](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_GBM_XGBoost.ipynb)<br>
    [빠른 주피처 노트북 보기 - Classification_Ensemble_LightGBM](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_LightGBM.ipynb)<br>
-  [[실습] 사용자 행동 인식 예측 - human_activity_recognition](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/human_activity_recognition.ipynb)
+  [[실습] 사용자 행동 인식 예측 - human_activity_recognition](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/human_activity_recognition.ipynb)<br>
   [[실습] 산탄데르 고객 만족 예측 - santander_customer_satisfaction](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/santander_customer_satisfaction.ipynb)
 
 * ### Regression 
