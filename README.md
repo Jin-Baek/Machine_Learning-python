@@ -39,7 +39,7 @@ Exercise and code are exceptions )
   [빠른 주피터 노트북 보기 - Classification_Ensemble_Voting_RandomForest](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_Voting_RandomForest.ipynb)<br>
   [빠른 주피터 노트북 보기 - Classification_Ensemble_GBM_XGBoost](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_GBM_XGBoost.ipynb)<br>
   [빠른 주피터 노트북 보기 - Classification_Ensemble_LightGBM](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_LightGBM.ipynb)<br>
-  [빠른 주피터 노트북 보기 - Classification_Ensemble_Stacking](https://github.com/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_Stacking.ipynb)<br>
+  [빠른 주피터 노트북 보기 - Classification_Ensemble_Stacking](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Classification_Ensemble_Stacking.ipynb)<br>
   [[실습] 사용자 행동 인식 예측 - human_activity_recognition](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/human_activity_recognition.ipynb)<br>
   [[실습] 산탄데르 고객 만족 예측 - santander_customer_satisfaction](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/santander_customer_satisfaction.ipynb)<br>
   [[실습] 신용카드 사기 검출 분류 예측 - credit_card_fraud_detection](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/credit_card_fraud_%20detection.ipynb)
@@ -47,6 +47,9 @@ Exercise and code are exceptions )
 * ### Regression 
   * Keyword : &#160;#단순 선형 회귀 이해&#160;&#160; #경사 하강법&#160;&#160; #다항 회귀와 과적합, 과소적합 이해&#160;&#160; #규제 선형 모델 - 릿지, 라쏘 , 엘라스틱넷 &#160;&#160; #로지스틱 회귀&#160;&#160; 
   #회귀 트리
+  
+  [빠른 주피터 노트북 보기 - Regression_basic](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Regression_basic.ipynb)<br>
+  [빠른 주피터 노트북 보기 - Regression_LinearRegression](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Regression_LinearRegression.ipynb)<br>
 
 * ### Dimension Reduction 
 
