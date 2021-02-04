@@ -50,7 +50,7 @@ Exercise and code are exceptions )
   
   [빠른 주피터 노트북 보기 - Regression_basic](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Regression_basic.ipynb)<br>
   [빠른 주피터 노트북 보기 - Regression_LinearRegression](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Regression_LinearRegression.ipynb)<br>
-
+  [빠른 주피터 노트북 보기 - Regression_PolynomialRegression overfitting underfitting](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Regression_PolynomialRegression_overfitting_underfitting.ipynb)<br>
 * ### Dimension Reduction 
 
 * ### Clustering  
