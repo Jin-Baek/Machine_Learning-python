@@ -1,8 +1,7 @@
-# Python-based machine learning
+# Machine Learning based on python
 
 ## Introduction
 * This repository is based on [" 파이썬 머신러닝 완벽 가이드 "](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C) <br>
-* The content for each lesson can be checked through the link above.
 
 ## Learning medium
 
@@ -10,8 +9,6 @@
 * Access the *Reference*, if you want to study the __code__ for this course ( Code provided by the book author )<br><br>
 * Using *lectures* to __review__ whole content<br><br>
 * Upload personal __customized, organized content__ based on book<br>
-  * 2021-01-31 < retrospect > : I tried to get into the habit of organizing what I learned from the book every day , but I felt that the efficiency was inferior because I was focused on organizing rather than learning. From now on, the concept of each chapter will be briefly summarized and reference materials and reference pages will be left.<br> ( 
-Exercise and code are exceptions ) 
 
 ## Reference
 
@@ -19,7 +16,7 @@ Exercise and code are exceptions )
 
 ## Topic
 
-[ 빠른 주피터 노트북 보기 ] links may differ slightly from actual file content 
+[ 빠른 주피터 노트북 보기 ] This link provides what I have organized and studied through nbviewer.
 
 * ### Machine learning starts with scikit-learn
   * Keyword : &#160;#내장 dataset&#160;&#160; #estimator&#160;&#160; #train_test_split()&#160;&#160; #교차 검증&#160;&#160; #GridSearchCV&#160;&#160; #데이터 인코딩&#160;&#160; #feature scaling&#160;&#160; 
