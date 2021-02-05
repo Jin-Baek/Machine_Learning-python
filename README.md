@@ -16,7 +16,7 @@
 
 ## Topic
 
-[ 빠른 주피터 노트북 보기 ] This link provides what I have organized and studied through nbviewer.
+[ 빠른 주피터 노트북 보기 ] <br> Organized and studied machine learning content are uploaded in .ipynb format, and through the link, you can easily check the contents including the result of the code in nbviwer.
 
 * ### Machine learning starts with scikit-learn
   * Keyword : &#160;#내장 dataset&#160;&#160; #estimator&#160;&#160; #train_test_split()&#160;&#160; #교차 검증&#160;&#160; #GridSearchCV&#160;&#160; #데이터 인코딩&#160;&#160; #feature scaling&#160;&#160; 
