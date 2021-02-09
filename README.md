@@ -42,7 +42,7 @@
   [[실습] 신용카드 사기 검출 분류 예측 - credit_card_fraud_detection](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/credit_card_fraud_%20detection.ipynb)
 
 * ### Regression 
-  * Keyword : &#160;#단순 선형 회귀 이해&#160;&#160; #경사 하강법&#160;&#160; #다항 회귀와 과적합, 과소적합 이해&#160;&#160; #규제 선형 모델 - 릿지, 라쏘 , 엘라스틱넷 &#160;&#160; #로지스틱 회귀&#160;&#160; #회귀 트리<br><br>
+  * Keyword : &#160;#단순 선형 회귀 이해&#160;&#160; #경사 하강법&#160;&#160; #다항 회귀와 과적합, 과소적합 이해&#160;&#160; #규제 선형 모델 - 릿지, 라쏘 , 엘라스틱넷 &#160;&#160; #로지스틱 회귀&#160;&#160; #회귀 트리<br>
   
   [빠른 주피터 노트북 보기 - Regression_basic](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Regression_basic.ipynb)<br>
   [빠른 주피터 노트북 보기 - Regression_LinearRegression](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Regression_LinearRegression.ipynb)<br>
@@ -52,7 +52,7 @@
 * ### Dimension Reduction 
   * Keyword : &#160;#차원 축소 개요 &#160;&#160; #PCA&#160;&#160; #LDA&#160;&#160; #SVD &#160;&#160; #NMF&#160;&#160;<br>
 
-  [빠른 주피터 노트북 보기 - Dimension_Reduction_basic_PCA](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Regression_basic.ipynb)<br>
+  [빠른 주피터 노트북 보기 - Dimension_Reduction_basic_PCA]()<br>
 
 * ### Clustering  
 
