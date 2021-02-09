@@ -52,7 +52,7 @@
 * ### Dimension Reduction 
   * Keyword : &#160;#차원 축소 개요 &#160;&#160; #PCA&#160;&#160; #LDA&#160;&#160; #SVD &#160;&#160; #NMF&#160;&#160;<br>
 
-  [빠른 주피터 노트북 보기 - Dimension_Reduction_basic_PCA]()<br>
+  [빠른 주피터 노트북 보기 - Dimension_Reduction_basic_PCA](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/c95a6dfefacdb52c8be77d3ee717d7f82f1f4c53/Dimension_Reduction_basic_PCA.ipynb)<br>
 
 * ### Clustering  
 
