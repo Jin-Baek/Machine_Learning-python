@@ -58,7 +58,7 @@
 * ### Clustering 
   * Keyword : &#160;#K-평균 &#160;&#160; #Cluster Evaluation&#160;&#160; #Mean Shift&#160;&#160; #GMM &#160;&#160; #DBSCAN&#160;&#160;<br>
 
-  [빠른 주피터 노트북 보기 - Clustering_KMeans]()<br>
+  [빠른 주피터 노트북 보기 - Clustering_KMeans](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Clustering_KMeans.ipynb)<br>
 
 * ### Text analysis 
 
