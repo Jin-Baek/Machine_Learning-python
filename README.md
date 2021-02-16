@@ -60,7 +60,7 @@
 
   [빠른 주피터 노트북 보기 - Clustering_KMeans](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Clustering_KMeans.ipynb)<br>
   [빠른 주피터 노트북 보기 - Clustering_Evaluation_MeanShift](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Clustering_Evaluation_MeanShift.ipynb)<br>
-  [빠른 주피터 노트북 보기 - Clustering_GMM_DBSCAN]()<br>
+  [빠른 주피터 노트북 보기 - Clustering_GMM_DBSCAN](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Clustering_GMM_DBSCAN.ipynb)<br>
 
 * ### Text analysis 
 
