@@ -63,5 +63,9 @@
   [빠른 주피터 노트북 보기 - Clustering_GMM_DBSCAN](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Clustering_GMM_DBSCAN.ipynb)<br>
 
 * ### Text analysis 
+  * Keyword : &#160;#텍스트 분석 이해 &#160;#텍스트 전처리 / 정규화 &#160;&#160; #BOW &#160;&#160; #감성 분석&#160;&#160; #Topic Modeling &#160;&#160; #문서 군집화&#160;&#160; #문서 유사도 &#160;&#160; #한글 텍스트 처리<br>
+
+  [빠른 주피터 노트북 보기 - Text_Analytics_basic](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Text_Analytics_basic.ipynb)<br>
+
 
 * ### Recommendation 
