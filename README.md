@@ -8,7 +8,7 @@
 * Using *book* for __conceptual study__ : [파이썬 머신러닝 완벽 가이드]<br><br>
 * Access the *Reference*, if you want to study the __code__ for this course ( Code provided by the book author )<br><br>
 * Using *lectures* to __review__ whole content<br><br>
-* Upload personal __customized, organized content__ based on book<br>
+* Upload __customized content__ based on book<br>
 
 ## Reference
 
