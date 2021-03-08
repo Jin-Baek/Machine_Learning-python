@@ -69,3 +69,12 @@
   [빠른 주피터 노트북 보기 - Text_Analytics_text_classification + Pipeline ](https://nbviewer.jupyter.org/github/Jin-Baek/Machine_Learning-python/blob/main/Text_Analytics_text_classification.ipynb)
 
 * ### Recommendation 
+
+## Toy project
+
+### [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)<br>
+  * __Data origin__ : Kaggle
+  * __Period__ : 03 / 01 / 2021 ~ 03 / 03 / 2021
+  * __File name__ : Heart_Disease_UCI 
+  * [My Notebook](https://nbviewer.jupyter.org/github/Jin-Baek/Kaggle_challenge/blob/ebfc6d243c199708fbbceb29add04a155efc97dd/Heart_Disease_UCI.ipynb)
+  * [Most voted notebook](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model)
