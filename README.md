@@ -1,25 +1,22 @@
 # Machine Learning basic based on python
 
 ## Introduction
-* This repository is based on book : [" 파이썬 머신러닝 완벽 가이드 "](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C) and some well-organized developer blog.<br>
-Also, included simple toy project based on learning.
-
-## Learning medium
-
-* Using *Book* for __conceptual study__ : [파이썬 머신러닝 완벽 가이드]<br><br>
-* Access the *Reference*, if you want to study the __own code__ for this course ( Code provided by the book author )<br><br>
-* Access *Lectures* link above, to __review__ whole content<br><br>
-* Upload __customized content__ based on book in Jupyter notebook.<br>
+* This repository is for Machine Learning content <br>
+ 
+  * __Book__ [" 파이썬 머신러닝 완벽 가이드 "](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C) (Inflearn lecture link ) <br><br>
+  * __Others resources__ , well-organized blog or Youtube link<br><br>
+  * Simple __toy project__ based on learning
 
 ## Reference
 
+* Access the *Reference*, if you want to study the __own code__ for book above ( Code provided by the book author )
+
+
 [Source code used in the lecture](https://github.com/chulminkw/PerfectGuide)
 
-## Customized content
+## Book 
 
-### Topic
-
-[ 빠른 주피터 노트북 보기 ] <br> Organized and studied machine learning content are uploaded in .ipynb format, and through the link, you can easily check the contents including the result of the code in nbviwer.
+[ 빠른 주피터 노트북 보기 ] <br> Organized and studied machine learning content are uploaded in .ipynb format, and through the link, you can easily check the contents including the result of the code in nbviewer.
 
 * ### Machine learning starts with scikit-learn
   * Keyword : &#160;#내장 dataset&#160;&#160; #estimator&#160;&#160; #train_test_split()&#160;&#160; #교차 검증&#160;&#160; #GridSearchCV&#160;&#160; #데이터 인코딩&#160;&#160; #feature scaling&#160;&#160; 
@@ -73,6 +70,10 @@ Also, included simple toy project based on learning.
 
 * ### Recommendation 
 <br><br>
+
+## Others resources
+None
+
 
 ## Toy project
 
