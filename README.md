@@ -8,14 +8,16 @@ Also, included simple toy project based on learning.
 
 * Using *Book* for __conceptual study__ : [파이썬 머신러닝 완벽 가이드]<br><br>
 * Access the *Reference*, if you want to study the __own code__ for this course ( Code provided by the book author )<br><br>
-* Using *Lectures* to __review__ whole content<br><br>
-* Upload __customized content__ based on book<br>
+* Access *Lectures* link above, to __review__ whole content<br><br>
+* Upload __customized content__ based on book in Jupyter notebook.<br>
 
 ## Reference
 
 [Source code used in the lecture](https://github.com/chulminkw/PerfectGuide)
 
-## Topic
+## Customized content
+
+### Topic
 
 [ 빠른 주피터 노트북 보기 ] <br> Organized and studied machine learning content are uploaded in .ipynb format, and through the link, you can easily check the contents including the result of the code in nbviwer.
 
