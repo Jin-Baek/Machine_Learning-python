@@ -4,7 +4,6 @@
 * This repository is for Machine Learning content <br>
  
   * __Book__ [" 파이썬 머신러닝 완벽 가이드 "](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C) (Inflearn lecture link ) <br><br>
-  * __Others resources__ , well-organized blog or Youtube link<br><br>
   * Simple __toy project__ based on learning
 
 ## Reference
@@ -70,10 +69,6 @@
 
 * ### Recommendation 
 <br><br>
-
-## Others resources
-None
-
 
 ## Toy project
 
